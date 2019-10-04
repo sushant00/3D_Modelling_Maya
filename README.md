@@ -1,3 +1,4 @@
+Team project
 # Maya_3D-Modelling_Animation_Rigging
 unrigged minion was downloaded from internet
 
